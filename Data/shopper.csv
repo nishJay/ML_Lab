@@ -1,0 +1,16 @@
+Day,Discount,Free Delivery,Purchase
+Weekday,Yes,Yes,Yes
+Weekday,Yes,No,Yes
+Weekday,Yes,Yes,Yes
+Weekday,No,Yes,Yes
+Holiday,Yes,Yes,Yes
+Weekend,Yes,Yes,Yes
+Holiday,Yes,Yes,Yes
+Weekend,Yes,Yes,Yes
+Weekday,Yes,Yes,Yes
+Weekend,Yes,Yes,Yes
+Holiday,Yes,Yes,Yes
+Holiday,Yes,Yes,Yes
+Holiday,Yes,Yes,Yes
+Weekend,Yes,Yes,Yes
+Holiday,Yes,Yes,Yes

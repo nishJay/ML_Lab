@@ -1,0 +1,21 @@
+Name,Give Birth,Can Fly,Live in Water,Have Legs,Class
+human,yes,no,no,mammals
+python,no,no,no,non-mammals
+salmon,no,no,yes,non-mammals
+whale,yes,no,yes,mammals
+frog,no,no,yes,amphibians
+komodo,no,no,no,non-mammals
+bat,yes,no,no,mammals
+pigeon,no,yes,no,birds
+cat,yes,no,no,mammals
+leopard shark,yes,no,yes,non-mammals
+turtle,no,no,yes,reptiles
+penguin,no,no,yes,birds
+porcupine,yes,no,no,mammals
+eel,no,no,yes,non-mammals
+salamander,no,no,yes,amphibians
+gila monster,no,no,no,non-mammals
+platypus,yes,no,yes,mammals
+owl,no,yes,no,birds
+dolphin,yes,no,yes,mammals
+eagle,no,yes,no,birds
